@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Colombia-🇨🇴-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/5%2B_años_de_experiencia-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
@@ -46,18 +45,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
-
----
-
-## 💼 Experiencia
-
-| Rol | Empresa | Período |
-|-----|---------|---------|
-| 🔵 Senior Flutter Developer | **TalentPitch** | Jun 2024 – Presente |
-| 🟣 Full Stack Developer | **Lizit (Liz Holding SAS)** | Feb 2022 – Jun 2024 |
-| 🟢 Mobile Developer | **Kubo Mobile** | Nov 2021 – Feb 2022 |
-| 🟡 Flutter Developer | **Catapulta** | Mar 2020 – Oct 2021 |
-| 🎓 Instructor Flutter & React | **ACM – U. Distrital** | Ago 2023 – Jun 2024 |
 
 ---
 
