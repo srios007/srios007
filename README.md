@@ -7,11 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/srios007" target="_blank">
+  <a href="https://www.linkedin.com/in/santiago-rios-valero-b77441110/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:riossanval@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Colombia-🇨🇴-yellow?style=for-the-badge" />
 </p>
