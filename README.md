@@ -1,9 +1,9 @@
-<h1 align="center">
-  Hola, soy Santiago Rios 👋
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00b4d8&height=200&section=header&text=Santiago%20Rios&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%26%20Frontend%20Developer&descAlignY=58&descColor=ffffff" />
+</p>
 
 <p align="center">
-  <em>Mobile & Frontend Developer · Flutter · Clean Architecture · IA</em>
+  <em>Flutter · Clean Architecture · Firebase · IA</em>
 </p>
 
 <p align="center">
@@ -22,6 +22,7 @@
 - 🔥 Trabajo con **Firebase** (Firestore, Auth, Storage, Cloud Functions)
 - 🤖 Integro **IA** en aplicaciones móviles (Gemini Flash, Claude Haiku)
 - 🏗️ Apasionado por la arquitectura limpia y el diseño de software
+- 🌱 Actualmente aprendiendo **Go**
 - 📍 Bogotá, Colombia
 
 ---
@@ -29,7 +30,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,ts,react,nextjs,java,nodejs,postgres,git,github,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,ts,react,nextjs,java,go,nodejs,postgres,git,github,figma&perline=7" />
 </p>
 
 ---
@@ -47,6 +48,14 @@
 
 ---
 
+## 🐍 Contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srios007/srios007/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🚀 Proyectos destacados
 
 | Proyecto | Descripción | Stack |
@@ -56,6 +65,10 @@
 | [Next + React Base](https://github.com/srios007/NextReactTsBaseProject) | Template base para proyectos web | Next.js · TypeScript |
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:6e40c9&height=100&section=footer" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srios007&color=blueviolet&style=for-the-badge&label=Visitas+al+perfil" />
