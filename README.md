@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00b4d8&height=220&section=header&text=Santiago+Rios&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Mobile+|+Frontend+Developer&descAlignY=60&descColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <em>Flutter · Clean Architecture · Firebase · IA</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00b4d8&height=220&section=header&text=Santiago+Rios&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Senior+Flutter+Developer+|+AI+Integration+|+CI/CD&descAlignY=60&descColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -11,27 +7,57 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Colombia-🇨🇴-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/5%2B_años_de_experiencia-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Ingeniero de Sistemas · **Universidad Distrital Francisco José de Caldas**
-- 📱 Especializado en **Flutter** con Clean Architecture + BLoC
-- 🔥 Trabajo con **Firebase** (Firestore, Auth, Storage, Cloud Functions)
-- 🤖 Integro **IA** en aplicaciones móviles (Gemini Flash, Claude Haiku)
-- 🏗️ Apasionado por la arquitectura limpia y el diseño de software
-- 🌱 Actualmente aprendiendo **Go**
+- 🎓 Ingeniero de Sistemas · **Universidad Distrital Francisco José de Caldas** (2018–2024)
+- 📱 **Senior Flutter Developer** en TalentPitch — apps Android e iOS en producción
+- 🤖 Integro **IA real** en productos: Claude Haiku, Gemini Flash, MCP y Prompt Engineering
+- 🔥 Experto en **Firebase** (Firestore, Auth, Storage, Cloud Functions)
+- 🚀 Construyo pipelines **CI/CD** con GitHub Actions — App Store y Play Store sin Fastlane
+- 🏗️ Clean Architecture + SOLID + BLoC en proyectos de escala
+- 🌱 Profundizando en **Go** y arquitectura backend
 - 📍 Bogotá, Colombia
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Stack tecnológico
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,ts,react,nextjs,java,go,nodejs,postgres,git,github,figma&perline=7" />
+**Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
 </p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs" />
+</p>
+
+**Backend & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=go,docker,postgres,githubactions" />
+</p>
+
+**Herramientas**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
+
+---
+
+## 💼 Experiencia
+
+| Rol | Empresa | Período |
+|-----|---------|---------|
+| 🔵 Senior Flutter Developer | **TalentPitch** | Jun 2024 – Presente |
+| 🟣 Full Stack Developer | **Lizit (Liz Holding SAS)** | Feb 2022 – Jun 2024 |
+| 🟢 Mobile Developer | **Kubo Mobile** | Nov 2021 – Feb 2022 |
+| 🟡 Flutter Developer | **Catapulta** | Mar 2020 – Oct 2021 |
+| 🎓 Instructor Flutter & React | **ACM – U. Distrital** | Ago 2023 – Jun 2024 |
 
 ---
 
@@ -56,13 +82,13 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## 📜 Certificaciones
 
-| Proyecto | Descripción | Stack |
-|----------|------------|-------|
-| [La Patrona](https://github.com/srios007/la_patrona) | App de gestión del hogar con IA para tablet | Flutter · Firebase · Claude · Gemini |
-| [Flutter Base Project](https://github.com/srios007/flutter_base_project) | Template con Clean Architecture + BLoC | Flutter · Dart |
-| [Next + React Base](https://github.com/srios007/NextReactTsBaseProject) | Template base para proyectos web | Next.js · TypeScript |
+- 🤖 **AI Dev Fundamentals** — BIG school · 2026
+- 📱 **Flutter: Zero to Expert** — {dev/talles} · 2026
+- 🧪 **Flutter Testing** — Udemy · 2025
+- ⚙️ **Riverpod Annotations** — {dev/talles} · 2025
+- 🏛️ **SOLID & Clean Code** — Udemy · 2023
 
 ---
 
