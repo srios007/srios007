@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de Ingeniería en **Universidad Distrital Francisco José de Caldas**
+- 🎓 Ingeniero de Sistemas · **Universidad Distrital Francisco José de Caldas**
 - 📱 Especializado en **Flutter** con Clean Architecture + BLoC
 - 🔥 Trabajo con **Firebase** (Firestore, Auth, Storage, Cloud Functions)
 - 🤖 Integro **IA** en aplicaciones móviles (Gemini Flash, Claude Haiku)
