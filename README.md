@@ -91,15 +91,6 @@ I build mobile, web and desktop products. I've been shipping Flutter apps to the
 
 ---
 
-## 📱 Some things I've built
-
-- **Glomyt** – Fleet inspection forms app in Flutter + Firebase: checklists, photos, signature, PDF reports and offline mode. Published on Google Play.
-- **Kelex** – White-label version of the same inspection platform, built from one Flutter codebase with flavors.
-- **Muelitas** – Clinical text library for a dental practice: React 19, strict TypeScript, TanStack Query, Zustand and Firestore with a ports-and-adapters design.
-- **Lizit** – App built from scratch in Flutter + Firebase, published on the App Store, Google Play and Huawei AppGallery.
-
----
-
 ## 🎓 Education & certifications
 
 - B.Sc. Systems Engineering, Universidad Distrital Francisco José de Caldas (2018–2024)
