@@ -108,8 +108,8 @@ Spanish (native) · English (B2, upper intermediate)
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=srios007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srios007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srios007&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srios007&theme=tokyonight" />
 </p>
 
 <p align="center">
